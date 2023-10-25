@@ -1,4 +1,5 @@
 - 👋 Hi I'm Xinyu, you can also call me Chris
+- 🌱 I enjoy AI and Machine Learning
 - 🌱 I'm interested in Web/Mobile development and software development; Python, React/React Native
 - ⚡ Like coding, playing games, hanging out with friends, and EAT!
 - 📫 How to reach me: xinyus0117@gmail.com
